@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Just a test of the push/pull system.
 
 I think it works...
-||||||| merged common ancestors
-=======
-Just a test of the push/pull system.
->>>>>>> 4418198787aa59eecf899ecb45b0db5043fbe175
